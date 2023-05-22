@@ -1,0 +1,38 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Enjo Guest Farm'
+theme = 'ananke'
+assetDir = './assets'
+custom_css = './assets/sass'
+
+# Navigation Bar
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "Accomodation"
+    url = "/accomodation"
+    weight = 2
+[[menu.main]]
+    name = "Activities"
+    url = "/activities"
+    weight = 3
+[[menu.main]]
+    name = "About"
+    url = "about"
+    weight = 4
+[[menu.main]]
+    name = "Blog"
+    url = "#blog"
+    weight = 5
+
+[params]
+  text_color = ""
+  author = ""
+  favicon = "/images/favicon.ico"
+  site_logo = "/images/logo.svg"
+  description = ""
+
+
+

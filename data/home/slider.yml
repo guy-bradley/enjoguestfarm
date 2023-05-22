@@ -1,0 +1,17 @@
+---
+enable: true
+sliderItem:
+  - heading: Lonely Planet Cottage
+    subheading: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus a, expedita dolorum consequatur magni commodi tempore nesciunt soluta veritatis corporis iste labore eaque aliquam, sapiente debitis dignissimos aut exercitationem minima.
+    url: images/home-slider/OakExteriorViewWithMountain.jpeg
+    show: show
+
+  - heading: Night Skies
+    subheading: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus a, expedita dolorum consequatur magni commodi tempore nesciunt soluta veritatis corporis iste labore eaque aliquam, sapiente debitis dignissimos aut exercitationem minima.
+    url: images/home-slider/LonelyPlanetStarscape.jpeg
+    show: show
+    
+  - heading: Oak Cottage
+    subheading: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus a, expedita dolorum consequatur magni commodi tempore nesciunt soluta veritatis corporis iste labore eaque aliquam, sapiente debitis dignissimos aut exercitationem minima.
+    url: images/home-slider/LazyLeopardWintertime.jpeg
+    show: show
